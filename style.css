@@ -1,0 +1,93 @@
+body {
+  background-color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo {
+  background-color: whitesmoke;
+  color: darkred;
+  text-align:center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 80%;
+  margin: 15px auto;
+}
+
+nav {
+  background-color: rgb(12, 15, 215);
+  color: #2b2b2b;
+  height: 5px;
+}
+
+nav ul li {
+color: rgb(12, 12, 12);
+  float: right;
+  margin: 10px;
+  font-size: medium;
+}
+
+#justificacion {
+ color: #090808;
+  text-align: justify;
+  float: left;
+ min-height: 10px;
+  width: calc(90% - 110px);
+  }
+
+#subtitulo {
+  color: rgb(13, 10, 10);
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  min-height: 60px;
+  width: calc(87% - 120px);
+  text-align: justify;
+}
+
+header {
+  text-align: center;
+  text-align: justify;
+}
+
+.separador {
+  clear: both;
+}
+
+#cuerpo {
+  color: black;
+  float: left;
+  min-height: 50px;
+  width: calc(70% - 110px);
+  padding: 100px;
+  text-align: justify;
+}
+
+.inta {
+  width: 250px;
+  height: 200px;
+  margin-left: 850px;
+  margin-top: 70px;
+  
+}
+.ilci { 
+    width: 200px;
+    height: 300px;
+    margin-left: 870px;
+    margin-top: 70px;
+
+}
+
+.rpas{
+    width: 250px;
+    height: 200px;
+    margin-left: 870px;
+    margin-top: 230px;
+}
+
+
+#colaborador{
+color: black;
+text-align:right;
+text-align: justify;
+font-size: small;
+margin-left: 880px;
+margin-top: 70px;
+}
