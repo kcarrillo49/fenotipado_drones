@@ -60,19 +60,27 @@ header {
   text-align: justify;
 }
 
-.inta {
-  width: 250px;
-  height: 200px;
-  margin-left: 850px;
-  margin-top: 70px;
-  
-}
+
 .ilci { 
-    width: 200px;
+    width: 210px;
     height: 300px;
-    margin-left: 870px;
+    margin-left: 890px;
     margin-top: 70px;
 
+}
+.inta {
+  width: 340px;
+  height: 200px;
+  margin-left: 850px;
+  margin-top: 55px;
+  
+}
+.ucr {
+  width: 200px;
+  height: 100px;
+  margin-left: 870px;
+  margin-top: 0px;
+  
 }
 
 .rpas{
